@@ -21,6 +21,9 @@ public class DateCal {
 		SimpleDateFormat sdf= new SimpleDateFormat("YYYY年  MM月 DD日 hh:mm:ss");
 		//출력
 		System.out.printf("%s이 접속한 시각은 %s입니다\n",this.name,sdf.format(this.date));
+		System.out.printf("%s이 접속한 시각은 %s입니다\n",this.name,sdf.format(this.date));
+		System.out.printf("%s이 접속한 시각은 %s입니다\n",this.name,sdf.format(this.date));
+		System.out.printf("%s이 접속한 시각은 %s입니다\n",this.name,sdf.format(this.date));
 	}
 
 
