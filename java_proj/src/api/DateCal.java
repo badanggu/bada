@@ -22,8 +22,6 @@ public class DateCal {
 		//출력
 		System.out.printf("%s이 접속한 시각은 %s입니다\n",this.name,sdf.format(this.date));
 		System.out.printf("%s이 접속한 시각은 %s입니다\n",this.name,sdf.format(this.date));
-		System.out.printf("%s이 접속한 시각은 %s입니다\n",this.name,sdf.format(this.date));
-		System.out.printf("%s이 접속한 시각은 %s입니다\n",this.name,sdf.format(this.date));
 	}
 
 
